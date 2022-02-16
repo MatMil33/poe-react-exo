@@ -1,0 +1,9 @@
+.card {​​​​​​​
+  overflow: hidden;
+  border: solid black;
+}​​​​​​​
+
+.grid {​​​​​​​
+  display: grid;
+  gap:30px;
+}​​​​​​​
